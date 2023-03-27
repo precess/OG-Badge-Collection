@@ -6,7 +6,7 @@ Discord badges are epic looking achievments to make your profile look cool. They
 
 ## Staff Badges
 
-| Badge | Title |
+| ㅤㅤㅤㅤㅤBadgeㅤㅤㅤㅤㅤ | ㅤㅤㅤㅤㅤTitleㅤㅤㅤㅤㅤ |
 | --- | --- |
 Admin | <img  src="/images/Staff/admin.png" href="https://discord.com/assets/498591d63b352256a1bf18061eff9d57.svg"> 
 Admin II | <img  src="/images/Staff/admin-2.png" href="https://discord.com/assets/8599b8b3d7917b5e7180e898a835f780.svg">
@@ -31,73 +31,70 @@ Verified-2 | <img  src="/images/Staff/verified-2.png" href="https://discord.com/
 
 | Badge | Title |
 | --- | --- |
-Discord Bug Hunter (Golden) | <img  src="/assets/discordbughunter2.svg" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" > 
-Discord Bug Hunter (Golden) | <img  src="/assets/discordbughunter2.svg" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" > 
-Discord Bug Hunter (Golden) | <img  src="/assets/discordbughunter2.svg" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" > 
-Discord Bug Hunter (Golden) | <img  src="/assets/discordbughunter2.svg" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" > 
-Discord Bug Hunter (Golden) | <img  src="/assets/discordbughunter2.svg" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" > 
-Discord Bug Hunter (Golden) | <img  src="/assets/discordbughunter2.svg" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" > 
-Discord Bug Hunter (Golden) | <img  src="/assets/discordbughunter2.svg" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" > 
-Discord Bug Hunter (Golden) | <img  src="/assets/discordbughunter2.svg" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" > 
-Discord Bug Hunter (Golden) | <img  src="/assets/discordbughunter2.svg" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" > 
-Discord Bug Hunter (Golden) | <img  src="/assets/discordbughunter2.svg" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" > 
-Discord Bug Hunter (Golden) | <img  src="/assets/discordbughunter2.svg" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" > 
-Discord Bug Hunter (Golden) | <img  src="/assets/discordbughunter2.svg" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" > 
-Discord Bug Hunter (Golden) | <img  src="/assets/discordbughunter2.svg" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" > 
-Discord Bug Hunter (Golden) | <img  src="/assets/discordbughunter2.svg" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" > 
-Discord Bug Hunter (Golden) | <img  src="/assets/discordbughunter2.svg" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" > 
-Discord Bug Hunter (Golden) | <img  src="/assets/discordbughunter2.svg" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" > 
-Discord Bug Hunter (Golden) | <img  src="/assets/discordbughunter2.svg" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" > 
-Discord Bug Hunter (Golden) | <img  src="/assets/discordbughunter2.svg" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" > 
-Discord Bug Hunter (Golden) | <img  src="/assets/discordbughunter2.svg" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" > 
-Discord Bug Hunter (Golden) | <img  src="/assets/discordbughunter2.svg" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" > 
-Discord Bug Hunter (Golden) | <img  src="/assets/discordbughunter2.svg" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" > 
-Discord Bug Hunter (Golden) | <img  src="/assets/discordbughunter2.svg" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" > 
-Discord Bug Hunter (Golden) | <img  src="/assets/discordbughunter2.svg" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" > 
-Discord Bug Hunter (Golden) | <img  src="/assets/discordbughunter2.svg" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" > 
-Discord Bug Hunter (Golden) | <img  src="/assets/discordbughunter2.svg" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" > 
-Discord Bug Hunter (Golden) | <img  src="/assets/discordbughunter2.svg" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" > 
-Discord Bug Hunter (Golden) | <img  src="/assets/discordbughunter2.svg" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
-Discord Bug Hunter (Golden) | <img  src="/assets/discordbughunter2.svg" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" > 
-Discord Bug Hunter (Golden) | <img  src="/assets/discordbughunter2.svg" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" > 
-Discord Bug Hunter (Golden) | <img  src="/assets/discordbughunter2.svg" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" > 
-Discord Bug Hunter (Golden) | <img  src="/assets/discordbughunter2.svg" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" > 
-Discord Bug Hunter (Golden) | <img  src="/assets/discordbughunter2.svg" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" > 
-Discord Bug Hunter (Golden) | <img  src="/assets/discordbughunter2.svg" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" > 
-Discord Bug Hunter (Golden) | <img  src="/assets/discordbughunter2.svg" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" > 
-Discord Bug Hunter (Golden) | <img  src="/assets/discordbughunter2.svg" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" > 
-Discord Bug Hunter (Golden) | <img  src="/assets/discordbughunter2.svg" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" > 
-Discord Bug Hunter (Golden) | <img  src="/assets/discordbughunter2.svg" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" > 
-Discord Bug Hunter (Golden) | <img  src="/assets/discordbughunter2.svg" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" > 
-Discord Bug Hunter (Golden) | <img  src="/assets/discordbughunter2.svg" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" > 
-Discord Bug Hunter (Golden) | <img  src="/assets/discordbughunter2.svg" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" > 
-Discord Bug Hunter (Golden) | <img  src="/assets/discordbughunter2.svg" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" > 
-Discord Bug Hunter (Golden) | <img  src="/assets/discordbughunter2.svg" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" > 
-Discord Bug Hunter (Golden) | <img  src="/assets/discordbughunter2.svg" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" > 
-Discord Bug Hunter (Golden) | <img  src="/assets/discordbughunter2.svg" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" > 
-Discord Bug Hunter (Golden) | <img  src="/assets/discordbughunter2.svg" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" > 
-Discord Bug Hunter (Golden) | <img  src="/assets/discordbughunter2.svg" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" > 
-Discord Bug Hunter (Golden) | <img  src="/assets/discordbughunter2.svg" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" > 
-Discord Bug Hunter (Golden) | <img  src="/assets/discordbughunter2.svg" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" > 
-Discord Bug Hunter (Golden) | <img  src="/assets/discordbughunter2.svg" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" > 
-Discord Bug Hunter (Golden) | <img  src="/assets/discordbughunter2.svg" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" > 
-Discord Bug Hunter (Golden) | <img  src="/assets/discordbughunter2.svg" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" > 
-Discord Bug Hunter (Golden) | <img  src="/assets/discordbughunter2.svg" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" > 
-Discord Bug Hunter (Golden) | <img  src="/assets/discordbughunter2.svg" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" > 
-Discord Bug Hunter (Golden) | <img  src="/assets/discordbughunter2.svg" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" > 
-Discord Bug Hunter (Golden) | <img  src="/assets/discordbughunter2.svg" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" > 
-Discord Bug Hunter (Golden) | <img  src="/assets/discordbughunter2.svg" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" > 
-Discord Bug Hunter (Golden) | <img  src="/assets/discordbughunter2.svg" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" > 
-Discord Bug Hunter (Golden) | <img  src="/assets/discordbughunter2.svg" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" > 
-Discord Bug Hunter (Golden) | <img  src="/assets/discordbughunter2.svg" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" > 
-Discord Bug Hunter (Golden) | <img  src="/assets/discordbughunter2.svg" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" > 
-Discord Bug Hunter (Golden) | <img  src="/assets/discordbughunter2.svg" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" > 
-Discord Bug Hunter (Golden) | <img  src="/assets/discordbughunter2.svg" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" > 
-Discord Bug Hunter (Golden) | <img  src="/assets/discordbughunter2.svg" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" > 
-Discord Bug Hunter (Golden) | <img  src="/assets/discordbughunter2.svg" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" > 
-Discord Bug Hunter (Golden) | <img  src="/assets/discordbughunter2.svg" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" > 
-Discord Bug Hunter (Golden) | <img  src="/assets/discordbughunter2.svg" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" > 
-Discord Bug Hunter (Golden) | <img  src="/assets/discordbughunter2.svg" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" > 
-Discord Bug Hunter (Golden) | <img  src="/assets/discordbughunter2.svg" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" > 
-Discord Bug Hunter (Golden) | <img  src="/assets/discordbughunter2.svg" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" > 
-Discord Bug Hunter (Golden) | <img  src="/assets/discordbughunter2.svg" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" > 
+Discord | <img  src="/images/" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
+Discord | <img  src="/images/" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
+Discord | <img  src="/images/" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
+Discord | <img  src="/images/" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
+Discord | <img  src="/images/" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
+Discord | <img  src="/images/" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
+Discord | <img  src="/images/" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
+Discord | <img  src="/images/" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
+Discord | <img  src="/images/" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
+Discord | <img  src="/images/" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
+Discord | <img  src="/images/" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
+Discord | <img  src="/images/" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
+Discord | <img  src="/images/" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
+Discord | <img  src="/images/" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
+Discord | <img  src="/images/" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
+Discord | <img  src="/images/" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
+Discord | <img  src="/images/" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
+Discord | <img  src="/images/" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
+Discord | <img  src="/images/" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
+Discord | <img  src="/images/" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
+Discord | <img  src="/images/" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
+Discord | <img  src="/images/" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
+Discord | <img  src="/images/" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
+Discord | <img  src="/images/" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
+Discord | <img  src="/images/" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
+Discord | <img  src="/images/" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
+Discord | <img  src="/images/" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
+Discord | <img  src="/images/" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
+Discord | <img  src="/images/" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
+Discord | <img  src="/images/" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
+Discord | <img  src="/images/" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
+Discord | <img  src="/images/" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
+Discord | <img  src="/images/" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
+Discord | <img  src="/images/" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
+Discord | <img  src="/images/" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
+Discord | <img  src="/images/" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
+Discord | <img  src="/images/" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
+Discord | <img  src="/images/" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
+Discord | <img  src="/images/" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
+Discord | <img  src="/images/" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
+Discord | <img  src="/images/" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
+Discord | <img  src="/images/" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
+Discord | <img  src="/images/" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
+Discord | <img  src="/images/" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
+Discord | <img  src="/images/" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
+Discord | <img  src="/images/" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
+Discord | <img  src="/images/" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
+Discord | <img  src="/images/" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
+Discord | <img  src="/images/" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
+Discord | <img  src="/images/" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
+Discord | <img  src="/images/" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
+Discord | <img  src="/images/" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
+Discord | <img  src="/images/" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
+Discord | <img  src="/images/" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
+Discord | <img  src="/images/" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
+Discord | <img  src="/images/" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
+Discord | <img  src="/images/" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
+Discord | <img  src="/images/" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
+Discord | <img  src="/images/" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
+Discord | <img  src="/images/" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
+Discord | <img  src="/images/" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
+Discord | <img  src="/images/" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
+Discord | <img  src="/images/" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
+Discord | <img  src="/images/" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
+Discord | <img  src="/images/" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
+Discord | <img  src="/images/" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
+Discord | <img  src="/images/" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
