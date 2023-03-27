@@ -41,7 +41,6 @@ Cloud | <img  src="/images/Cloud.png" href="https://discord.com/assets/f59906376
 Crybaby | <img  src="/images/Crybaby.png" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
 Crypto-Fan-Club | <img  src="/images/Crypto-Fan-Club.png" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
 Crypto | <img  src="/images/Crypto.png" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
-? | <img  src="/images/DNH0f1I.gif" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
 Dawgs | <img  src="/images/Dawgs.gif" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
 Dawn | <img  src="/images/Dawn.gif" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
 Death | <img  src="/images/Death.png" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
@@ -59,7 +58,8 @@ Gambit | <img  src="/images/Gambit.png" href="https://discord.com/assets/f599063
 HOPPEAN | <img  src="/images/HOPPEAN.gif" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
 Heaven | <img  src="/images/Heaven.png" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
 Hell | <img  src="/images/Hell.png" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
-Hour | <img  src="/images/Hour.gif" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
+Hour I | <img  src="/images/DNH0f1I.gif" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
+Hour II | <img  src="/images/Hour.gif" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
 Icebergs | <img  src="/images/Icebergs.png" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
 Invoker | <img  src="/images/Invoker.png" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
 ? | <img  src="/images/JSPaPI7.png" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
@@ -90,10 +90,19 @@ Zeus | <img  src="/images/Zeus.png" href="https://discord.com/assets/f5990637621
 Cosmos I | <img  src="/images/cosmos.gif" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
 Cosmos II | <img  src="/images/cosmos-2.gif" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
 Ice | <img  src="/images/ice.gif" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
-Discord | <img  src="/images/" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
-Discord | <img  src="/images/" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
-Discord | <img  src="/images/" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
-Discord | <img  src="/images/" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
-Discord | <img  src="/images/" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
-Discord | <img  src="/images/" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
-Discord | <img  src="/images/" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
+Luminary | <img  src="/images/luminary.png" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
+Lunar | <img  src="/images/lunar.gif" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
+Mafia | <img  src="/images/mafia.gif" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
+? | <img  src="/images/melhuhg.gif" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
+Nightmare | <img  src="/images/nightmare.gif" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
+Nova | <img  src="/images/nova.gif" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
+? | <img  src="/images/on6DmRZ.gif" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
+Revolution | <img  src="/images/revolution.png" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
+Ruby | <img  src="/images/ruby.png" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
+Sacred | <img  src="/images/sacred.png" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
+Stoners | <img  src="/images/stoners.gif" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
+Supreme | <img  src="/images/supreme.gif" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
+Heart | <img  src="/images/ub-d.gif" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
+Venus.png | <img  src="/images/venus.png" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
+Yinandyang | <img  src="/images/yinandyang.png" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
+リラックマ | <img  src="/images/リラックマ.png" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
