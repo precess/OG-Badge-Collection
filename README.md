@@ -29,22 +29,22 @@ Verified-2 | <img  src="/images/Staff/verified-2.png" href="https://discord.com/
 
 ## Group Badges
 
-| Badge | Title |
+| ㅤㅤㅤㅤㅤBadgeㅤㅤㅤㅤㅤ | ㅤㅤㅤㅤㅤTitleㅤㅤㅤㅤㅤ |
 | --- | --- |
-Discord | <img  src="/images/" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
-Discord | <img  src="/images/" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
-Discord | <img  src="/images/" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
-Discord | <img  src="/images/" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
-Discord | <img  src="/images/" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
-Discord | <img  src="/images/" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
-Discord | <img  src="/images/" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
-Discord | <img  src="/images/" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
-Discord | <img  src="/images/" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
-Discord | <img  src="/images/" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
-Discord | <img  src="/images/" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
-Discord | <img  src="/images/" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
-Discord | <img  src="/images/" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
-Discord | <img  src="/images/" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
+? | <img  src="/images/8x2Kw2G.png" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
+999 | <img  src="/images/999.png" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
+Agony | <img  src="/images/Agony.gif" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
+Apollo | <img  src="/images/Apollo.png" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
+? | <img  src="/images/B5DFsdY.png" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
+Beef | <img  src="/images/Boosters.gif" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
+Cloud | <img  src="/images/Cloud.png" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
+Crybaby | <img  src="/images/Crybaby.png" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
+Crypto-Fan-Club | <img  src="/images/Crypto-Fan-Club.png" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
+Crypto | <img  src="/images/Crypto.png" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
+? | <img  src="/images/DNH0f1I.gif" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
+Dawgs | <img  src="/images/Dawgs.gif" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
+Dawn | <img  src="/images/Dawn.gif" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
+Death | <img  src="/images/Death.png" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
 Discord | <img  src="/images/" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
 Discord | <img  src="/images/" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
 Discord | <img  src="/images/" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
