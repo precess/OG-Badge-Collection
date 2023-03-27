@@ -29,6 +29,11 @@ Staff | <img  src="/images/Staff/staff.png" href="https://discord.com/assets/f59
 Trusted | <img  src="/images/Staff/trusted.png" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" > 
 Verified I | <img  src="/images/Staff/verified.png" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" > 
 Verified II | <img  src="/images/Staff/verified-2.png" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" > 
+Verified III | <img  src="/images/Staff/verified-gg.png" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" > 
+Limunary | <img  src="/images/Staff/limunary-gg.png" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" > 
+Mentor | <img  src="/images/Staff/mentor-gg.png" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" > 
+Revolution | <img  src="/images/Staff/revolution-gg.png" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" > 
+Staff | <img  src="/images/Staff/staff-gg.png" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" > 
 
 ## Group Badges
 
