@@ -8,7 +8,7 @@ Discord badges are epic looking achievments to make your profile look cool. They
 
 | Badge | Title |
 | --- | --- |
-Admin | <img  src="/images/Staff/Admin.png" href="https://discord.com/assets/498591d63b352256a1bf18061eff9d57.svg"> 
+Admin | <img  src="/images/Staff/admin.png" href="https://discord.com/assets/498591d63b352256a1bf18061eff9d57.svg"> 
 Admin II | <img  src="/images/Staff/Admin_II.png" href="https://discord.com/assets/8599b8b3d7917b5e7180e898a835f780.svg">
 HypeSquad Events | <img  src="/assets/hypesquadevents.svg" href="https://discord.com/assets/e666a84a7a5ea2abbbfa73adf22e627b.svg" >
 HypeSquad Brilliance | <img  src="/assets/hypesquadbrilliance.svg" href="https://discord.com/assets/ec8e92568a7c8f19a052ef42f862ff18.svg" >
