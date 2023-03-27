@@ -38,10 +38,10 @@ Verified II | <img  src="/images/Staff/verified-2.png" href="https://discord.com
 Agony | <img  src="/images/Agony.gif" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
 Apollo | <img  src="/images/Apollo.png" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
 ? | <img  src="/images/B5DFsdY.png" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
-Beef | <img  src="/images/Boosters.gif" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
+? | <img  src="/images/Boosters.gif" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
 Cloud | <img  src="/images/Cloud.png" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
 Crybaby | <img  src="/images/Crybaby.png" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
-Crypto-Fan-Club | <img  src="/images/Crypto-Fan-Club.png" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
+Crypto Fan Club | <img  src="/images/Crypto-Fan-Club.png" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
 Crypto | <img  src="/images/Crypto.png" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
 Dawgs | <img  src="/images/Dawgs.gif" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
 Dawn | <img  src="/images/Dawn.gif" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
@@ -49,7 +49,7 @@ Death | <img  src="/images/Death.png" href="https://discord.com/assets/f59906376
 District | <img  src="/images/District.png" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
 Divine | <img  src="/images/Divine.png" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
 Dollar Ducks | <img  src="/images/Dollar-Ducks.gif" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
-Eth | <img  src="/images/Eth.png" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
+Crypto | <img  src="/images/Eth.png" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
 Euro | <img  src="/images/Euro.png" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
 Evolution I | <img  src="/images/Evolution.png" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
 Evolution II | <img  src="/images/Evolution-2.png" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
