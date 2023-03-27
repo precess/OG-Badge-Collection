@@ -46,11 +46,13 @@ Amoral | <img  src="/images/amoral.png" href="https://discord.com/assets/f599063
 Apollo | <img  src="/images/Apollo.png" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
 ? | <img  src="/images/B5DFsdY.png" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
 ? | <img  src="/images/Boosters.gif" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
+Crook | <img  src="/images/CROOK.png" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
 Cloud | <img  src="/images/Cloud.png" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
 Crybaby | <img  src="/images/Crybaby.png" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
 Crypto Fan Club | <img  src="/images/Crypto-Fan-Club.png" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
 Crypto I | <img  src="/images/Eth.png" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
 Crypto II | <img  src="/images/Crypto.png" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
+Dynasty | <img  src="/images/DYNASTY.png" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
 Dawgs | <img  src="/images/Dawgs.gif" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
 Dawn | <img  src="/images/Dawn.gif" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
 Death | <img  src="/images/Death.png" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
@@ -76,6 +78,7 @@ Invoker | <img  src="/images/Invoker.png" href="https://discord.com/assets/f5990
 Kitten | <img  src="/images/Kitten.png" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
 Mario | <img  src="/images/Mario.png" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
 Naughty Santa | <img  src="/images/Naughty-Santa.gif" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
+Player | <img  src="/images/PLAYER.png" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
 Phantom | <img  src="/images/Phantom.png" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
 Planet | <img  src="/images/Planet.png" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
 Prime | <img  src="/images/Prime.png" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
@@ -114,5 +117,6 @@ Supreme | <img  src="/images/supreme.gif" href="https://discord.com/assets/f5990
 Heart | <img  src="/images/ub-d.gif" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
 Venus.png | <img  src="/images/venus.png" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
 V | <img  src="/images/V.png" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
-Yinandyang | <img  src="/images/yinandyang.png" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
+? | <img  src="/images/yinandyang.png" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
+Selfmade | <img  src="/images/SELFMADE.png" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
 リラックマ | <img  src="/images/リラックマ.png" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
