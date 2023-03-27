@@ -1,8 +1,8 @@
-# Discord Badges 🏆
+# OG Website Badges
 
 A collection featuring every badge on discord!
 
-Discord badges are epic looking achievments to make your profile look cool. They are given out by discord for various reasons, such as being a nitro booster, being a discord partner, or being a discord staff member. This collection features every badge on discord for both staff/bot accounts and user accounts. This was made by **Mezo#0001**
+This was made by <a href="https://github.com/precess">precess</a>
 
 ## Staff Badges
 
