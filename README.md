@@ -16,16 +16,16 @@ Exclusive | <img  src="/images/Staff/exclusive.png" href="https://discord.com/as
 Management | <img  src="/images/Staff/management.png" href="https://discord.com/assets/9f00b18e292e10fc0ae84ff5332e8b0b.svg" >
 Member | <img  src="/images/Staff/member.png" href="https://discord.com/assets/48d5bdcffe9e7848067c2e187f1ef951.svg" >
 Mentor | <img  src="/images/Staff/mentor.png" href="https://discord.com/assets/34306011e46e87f8ef25f3415d3b99ca.svg" >
-Moderator 1| <img  src="/images/Staff/moderator-1.png" href="https://discord.com/assets/c981e58b5ea4b7fedd3a643cf0c60564.svg" >
-Moderator 2 | <img  src="/images/Staff/Moderator-3.png" href="https://discord.com/assets/26c7a60fb1654315e0be26107bd47470.svg" >
+Moderator I | <img  src="/images/Staff/moderator-1.png" href="https://discord.com/assets/c981e58b5ea4b7fedd3a643cf0c60564.svg" >
+Moderator II | <img  src="/images/Staff/Moderator-3.png" href="https://discord.com/assets/26c7a60fb1654315e0be26107bd47470.svg" >
 Premium | <img  src="/images/Staff/premium.png" href="https://discord.com/assets/24d05f3b46a110e538674edbac0db4cd.svg" >
 Registered | <img  src="/images/Staff/registered.png" href="https://discord.com/assets/b802e9af134ff492276d94220e36ec5c.svg" >
-Staff-blue | <img  src="/images/Staff/staff-blue.png" href="https://discord.com/assets/8353d89b529e13365c415aef08d1d1f4.svg" >
-Staff-red | <img  src="/images/Staff/staff-red.png" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
+Staff Blue | <img  src="/images/Staff/staff-blue.png" href="https://discord.com/assets/8353d89b529e13365c415aef08d1d1f4.svg" >
+Staff Red | <img  src="/images/Staff/staff-red.png" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
 Staff | <img  src="/images/Staff/staff.png" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" > 
 Trusted | <img  src="/images/Staff/trusted.png" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" > 
-Verified | <img  src="/images/Staff/verified.png" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" > 
-Verified-2 | <img  src="/images/Staff/verified-2.png" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" > 
+Verified I | <img  src="/images/Staff/verified.png" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" > 
+Verified II | <img  src="/images/Staff/verified-2.png" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" > 
 
 ## Group Badges
 
@@ -45,14 +45,13 @@ Crypto | <img  src="/images/Crypto.png" href="https://discord.com/assets/f599063
 Dawgs | <img  src="/images/Dawgs.gif" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
 Dawn | <img  src="/images/Dawn.gif" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
 Death | <img  src="/images/Death.png" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
-Diamond | <img  src="/images/Diamond.gif" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
 District | <img  src="/images/District.png" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
 Divine | <img  src="/images/Divine.png" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
 Dollar Ducks | <img  src="/images/Dollar-Ducks.gif" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
 Eth | <img  src="/images/Eth.png" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
 Euro | <img  src="/images/Euro.png" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
-Evolution | <img  src="/images/Evolution.png" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
-Evolution 2 | <img  src="/images/Evolution-2.png" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
+Evolution I | <img  src="/images/Evolution.png" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
+Evolution II | <img  src="/images/Evolution-2.png" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
 Fiend | <img  src="/images/Fiend.png" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
 Final | <img  src="/images/Final.png" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
 Frosty | <img  src="/images/Frosty.gif" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
