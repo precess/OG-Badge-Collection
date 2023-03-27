@@ -1,10 +1,11 @@
 # OG Website Badges
 
-A collection featuring every badge on discord!
+A collection listing all the badges in OG Websites.
 
 This was made by <a href="https://github.com/precess">precess</a>
 
 I have no clue about some badges so if you want you can <a href="https://github.com/precess/OG-Badges-Collection/discussions/1">help me out</a>
+> 
 
 ## Staff Badges
 
@@ -42,14 +43,14 @@ Apollo | <img  src="/images/Apollo.png" href="https://discord.com/assets/f599063
 Cloud | <img  src="/images/Cloud.png" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
 Crybaby | <img  src="/images/Crybaby.png" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
 Crypto Fan Club | <img  src="/images/Crypto-Fan-Club.png" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
-Crypto | <img  src="/images/Crypto.png" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
+Crypto I | <img  src="/images/Eth.png" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
+Crypto II | <img  src="/images/Crypto.png" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
 Dawgs | <img  src="/images/Dawgs.gif" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
 Dawn | <img  src="/images/Dawn.gif" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
 Death | <img  src="/images/Death.png" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
 District | <img  src="/images/District.png" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
 Divine | <img  src="/images/Divine.png" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
 Dollar Ducks | <img  src="/images/Dollar-Ducks.gif" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
-Crypto | <img  src="/images/Eth.png" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
 Euro | <img  src="/images/Euro.png" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
 Evolution I | <img  src="/images/Evolution.png" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
 Evolution II | <img  src="/images/Evolution-2.png" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
