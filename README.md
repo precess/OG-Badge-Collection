@@ -8,7 +8,7 @@ I have no clue about some badges so if you want you can <a href="https://github.
 
 ## Staff Badges
 
-| ㅤㅤㅤㅤㅤBadgeㅤㅤㅤㅤㅤ | ㅤㅤㅤㅤㅤTitleㅤㅤㅤㅤㅤ |
+| ㅤㅤㅤㅤㅤTitleㅤㅤㅤㅤㅤ | ㅤㅤㅤㅤㅤBadgeㅤㅤㅤㅤㅤ |
 | --- | --- |
 Admin | <img  src="/images/Staff/admin.png" href="https://discord.com/assets/498591d63b352256a1bf18061eff9d57.svg"> 
 Admin II | <img  src="/images/Staff/admin-2.png" href="https://discord.com/assets/8599b8b3d7917b5e7180e898a835f780.svg">
@@ -31,7 +31,7 @@ Verified II | <img  src="/images/Staff/verified-2.png" href="https://discord.com
 
 ## Group Badges
 
-| ㅤㅤㅤㅤㅤBadgeㅤㅤㅤㅤㅤ | ㅤㅤㅤㅤㅤTitleㅤㅤㅤㅤㅤ |
+| ㅤㅤㅤㅤㅤTitleㅤㅤㅤㅤㅤ | ㅤㅤㅤㅤㅤBadgeㅤㅤㅤㅤㅤ |
 | --- | --- |
 ? | <img  src="/images/8x2Kw2G.png" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
 999 | <img  src="/images/999.png" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
