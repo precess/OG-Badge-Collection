@@ -37,6 +37,7 @@ Verified II | <img  src="/images/Staff/verified-2.png" href="https://discord.com
 ? | <img  src="/images/8x2Kw2G.png" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
 999 | <img  src="/images/999.png" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
 Agony | <img  src="/images/Agony.gif" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
+Amoral | <img  src="/images/amoral.png" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
 Apollo | <img  src="/images/Apollo.png" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
 ? | <img  src="/images/B5DFsdY.png" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
 ? | <img  src="/images/Boosters.gif" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
@@ -107,5 +108,6 @@ Stoners | <img  src="/images/stoners.gif" href="https://discord.com/assets/f5990
 Supreme | <img  src="/images/supreme.gif" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
 Heart | <img  src="/images/ub-d.gif" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
 Venus.png | <img  src="/images/venus.png" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
+V | <img  src="/images/V.png" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
 Yinandyang | <img  src="/images/yinandyang.png" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
 リラックマ | <img  src="/images/リラックマ.png" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
