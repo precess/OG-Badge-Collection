@@ -48,7 +48,7 @@ Death | <img  src="/images/Death.png" href="https://discord.com/assets/f59906376
 Diamond | <img  src="/images/Diamond.gif" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
 District | <img  src="/images/District.png" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
 Divine | <img  src="/images/Divine.png" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
-Dollar-Ducks.gif | <img  src="/images/Dollar-Ducks.gif" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
+Dollar Ducks | <img  src="/images/Dollar-Ducks.gif" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
 Eth | <img  src="/images/Eth.png" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
 Euro | <img  src="/images/Euro.png" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
 Evolution | <img  src="/images/Evolution.png" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
@@ -71,26 +71,26 @@ Naughty Santa | <img  src="/images/Naughty-Santa.gif" href="https://discord.com/
 Phantom | <img  src="/images/Phantom.png" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
 Planet | <img  src="/images/Planet.png" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
 Prime | <img  src="/images/Prime.png" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
-Discord | <img  src="/images/" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
-Discord | <img  src="/images/" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
-Discord | <img  src="/images/" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
-Discord | <img  src="/images/" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
-Discord | <img  src="/images/" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
-Discord | <img  src="/images/" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
-Discord | <img  src="/images/" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
-Discord | <img  src="/images/" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
-Discord | <img  src="/images/" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
-Discord | <img  src="/images/" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
-Discord | <img  src="/images/" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
-Discord | <img  src="/images/" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
-Discord | <img  src="/images/" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
-Discord | <img  src="/images/" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
-Discord | <img  src="/images/" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
-Discord | <img  src="/images/" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
-Discord | <img  src="/images/" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
-Discord | <img  src="/images/" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
-Discord | <img  src="/images/" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
-Discord | <img  src="/images/" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
+Private Party | <img  src="/images/Private-Party.png" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
+Psychedelic | <img  src="/images/Psychedelic.gif" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
+RR | <img  src="/images/RR.gif" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
+Rich | <img  src="/images/Rich.png" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
+Royal | <img  src="/images/Royal.png" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
+? | <img  src="/images/SDY2f0Q.png" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
+Sakura I | <img  src="/images/Sakura.png" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
+Sakura II | <img  src="/images/Sakura-2.png" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
+Solar | <img  src="/images/Solar.png" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
+Somber | <img  src="/images/Somber.png" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
+Stoned | <img  src="/images/Stoned.png" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
+Throne | <img  src="/images/Throne.png" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
+Vengeance | <img  src="/images/Vengeance.png" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
+Void | <img  src="/images/Void.png" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
+Wealthy | <img  src="/images/Wealthy.gif" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
+? | <img  src="/images/Xb5pzTW.png" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
+Zeus | <img  src="/images/Zeus.png" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
+Cosmos I | <img  src="/images/cosmos.gif" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
+Cosmos II | <img  src="/images/cosmos-2.gif" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
+Ice | <img  src="/images/ice.gif" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
 Discord | <img  src="/images/" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
 Discord | <img  src="/images/" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
 Discord | <img  src="/images/" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
