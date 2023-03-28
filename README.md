@@ -8,7 +8,6 @@
 | --- |
 Made with ❤ by <a href="https://github.com/precess">precess</a>
 
----------------------------------------
 
 ## Staff Badges
 
