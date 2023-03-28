@@ -37,7 +37,6 @@ Mentor | <img  src="/images/Staff/mentor-gg.png">
 Revolution | <img  src="/images/Staff/revolution-gg.png"> 
 Staff | <img  src="/images/Staff/staff-gg.png"> 
 
----------------------------------------
 
 ## Group Badges
 
