@@ -61,7 +61,7 @@ Made with ❤ by <a href="https://github.com/precess">precess</a>
 
 ## Group Badges
 
-| ㅤㅤㅤㅤㅤTitleㅤㅤㅤㅤㅤ | ㅤㅤㅤㅤㅤBadgeㅤㅤㅤㅤㅤ |
+| ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤTitleㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ | ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤBadgeㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ |
 | --- | --- |
 | <div align="center"> ? </div> | <div align="center"> <img  src="/images/8x2Kw2G.png"> </div> |
 | <div align="center"> 999 </div> | <div align="center"> <img  src="/images/999.png"> </div> |
