@@ -6,7 +6,7 @@ I have no clue about some of the badges so i titled them as "?" if you know them
 
 If you know about some other badges which i havent mentioned here please let me know.
 
-If you like this repo please press on star <img src="https://raw.githubusercontent.com/precess/OG-Badge-Collection/main/icons/2nn6mhp57inp6rdxarzt.jpg" width="100" height="50">
+If you like this repo please press on star <img src="https://raw.githubusercontent.com/precess/OG-Badge-Collection/main/icons/2nn6mhp57inp6rdxarzt.jpg" width="100" height="25">
 
 ---------------------------------------
 
