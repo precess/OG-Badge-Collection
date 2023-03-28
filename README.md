@@ -11,7 +11,7 @@ Credits:
 
 # OG Badge Collection
 
-### A collection listing of all the badges in OG Websites.
+### A collection listing of all the badges from OG Websites.
 
 ### - <a href="https://github.com/precess/OG-Badge-Collection/blob/main/README.md#staff-badges">Staff Badges</a>
 
