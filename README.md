@@ -10,7 +10,7 @@ If you like this repo please press on star <img src="https://raw.githubuserconte
 
 ---------------------------------------
 
-||
+| If you like this repo please press on star <img src="https://raw.githubusercontent.com/precess/OG-Badge-Collection/main/icons/2nn6mhp57inp6rdxarzt.jpg" width="75" height="25"> |
 | --- |
 Made with ❤ by <a href="https://github.com/precess">precess</a>
 
