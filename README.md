@@ -63,86 +63,86 @@ Made with ❤ by <a href="https://github.com/precess">precess</a>
 
 | ㅤㅤㅤㅤㅤTitleㅤㅤㅤㅤㅤ | ㅤㅤㅤㅤㅤBadgeㅤㅤㅤㅤㅤ |
 | --- | --- |
-| <div align="center"> ? </div> | <div align="center"> <img  src="/images/8x2Kw2G.png"> |
-| <div align="center"> 999 </div> | <div align="center"> <img  src="/images/999.png"> |
-| <div align="center"> Agony </div> | <div align="center"> <img  src="/images/Agony.gif"> |
-| <div align="center"> Amoral </div> | <div align="center"> <img  src="/images/amoral.png"> |
-| <div align="center"> Ahegao </div> | <div align="center"> <img  src="/images/Ahegao.png"> |
-| <div align="center"> Apollo </div> | <div align="center"> <img  src="/images/Apollo.png"> |
-| <div align="center"> Freemasons </div> | <div align="center"> <img  src="/images/B5DFsdY.png"> |
-| <div align="center"> ? </div> | <div align="center"> <img  src="/images/Boosters.gif"> |
-| <div align="center"> Crook </div> | <div align="center"> <img  src="/images/CROOK.png"> |
-| <div align="center"> Cloud </div> | <div align="center"> <img  src="/images/Cloud.png"> |
-| <div align="center"> Crybaby </div> | <div align="center"> <img  src="/images/Crybaby.png"> |
-| <div align="center"> Crypto Fan Club </div> | <div align="center"> <img  src="/images/Crypto-Fan-Club.png"> |
-| <div align="center"> Crypto I </div> | <div align="center"> <img  src="/images/Eth.png"> |
-| <div align="center"> Crypto II </div> | <div align="center"> <img  src="/images/Crypto.png"> |
-| <div align="center"> Dynasty </div> | <div align="center"> <img  src="/images/DYNASTY.png"> |
-| <div align="center"> Dawgs </div> | <div align="center"> <img  src="/images/Dawgs.gif"> |
-| <div align="center"> Dawn </div> | <div align="center"> <img  src="/images/Dawn.gif"> |
-| <div align="center"> Death </div> | <div align="center"> <img  src="/images/Death.png"> |
-| <div align="center"> District </div> | <div align="center"> <img  src="/images/District.png"> |
-| <div align="center"> Divine </div> | <div align="center"> <img  src="/images/Divine.png"> |
-| <div align="center"> Dollar Ducks </div> | <div align="center"> <img  src="/images/Dollar-Ducks.gif"> |
-| <div align="center"> Euro </div> | <div align="center"> <img  src="/images/Euro.png"> |
-| <div align="center"> Evolution I </div> | <div align="center"> <img  src="/images/Evolution.png"> |
-| <div align="center"> Evolution II </div> | <div align="center"> <img  src="/images/Evolution-2.png"> |
-| <div align="center"> Fiend </div> | <div align="center"> <img  src="/images/Fiend.png"> |
-| <div align="center"> Final </div> | <div align="center"> <img  src="/images/Final.png"> |
-| <div align="center"> Frosty </div> | <div align="center"> <img  src="/images/Frosty.gif"> |
-| <div align="center"> Gambit </div> | <div align="center"> <img  src="/images/Gambit.png"> |
-| <div align="center"> HOPPEAN </div> | <div align="center"> <img  src="/images/HOPPEAN.gif"> |
-| <div align="center"> Heaven </div> | <div align="center"> <img  src="/images/Heaven.png"> |
-| <div align="center"> Hell </div> | <div align="center"> <img  src="/images/Hell.png"> |
-| <div align="center"> Hour I </div> | <div align="center"> <img  src="/images/DNH0f1I.gif"> |
-| <div align="center"> Hour II </div> | <div align="center"> <img  src="/images/Hour.gif"> |
-| <div align="center"> Icebergs </div> | <div align="center"> <img  src="/images/Icebergs.png"> |
-| <div align="center"> Invoker </div> | <div align="center"> <img  src="/images/Invoker.png"> |
-| <div align="center"> ? </div> | <div align="center"> <img  src="/images/JSPaPI7.png"> |
-| <div align="center"> ? </div> | <div align="center"> <img  src="/images/JWSlawf.png"> |
-| <div align="center"> Kitten </div> | <div align="center"> <img  src="/images/Kitten.png"> |
-| <div align="center"> Mario </div> | <div align="center"> <img  src="/images/Mario.png"> |
-| <div align="center"> Naughty Santa </div> | <div align="center"> <img  src="/images/Naughty-Santa.gif"> |
-| <div align="center"> Player </div> | <div align="center"> <img  src="/images/PLAYER.png"> |
-| <div align="center"> Phantom </div> | <div align="center"> <img  src="/images/Phantom.png"> |
-| <div align="center"> Planet </div> | <div align="center"> <img  src="/images/Planet.png"> |
-| <div align="center"> Prime </div> | <div align="center"> <img  src="/images/Prime.png"> |
-| <div align="center"> Private Party </div> | <div align="center"> <img  src="/images/Private-Party.png"> |
-| <div align="center"> Psychedelic </div> | <div align="center"> <img  src="/images/Psychedelic.gif"> |
-| <div align="center"> RR </div> | <div align="center"> <img  src="/images/RR.gif"> |
-| <div align="center"> Rich </div> | <div align="center"> <img  src="/images/Rich.png"> |
-| <div align="center"> Royal </div> | <div align="center"> <img  src="/images/Royal.png"> |
-| <div align="center"> ? </div> | <div align="center"> <img  src="/images/SDY2f0Q.png"> |
-| <div align="center"> Sakura I </div> | <div align="center"> <img  src="/images/Sakura.png"> |
-| <div align="center"> Sakura II </div> | <div align="center"> <img  src="/images/Sakura-2.png"> |
-| <div align="center"> Solar </div> | <div align="center"> <img  src="/images/Solar.png"> |
-| <div align="center"> Somber </div> | <div align="center"> <img  src="/images/Somber.png"> |
-| <div align="center"> Stoned </div> | <div align="center"> <img  src="/images/Stoned.png"> |
-| <div align="center"> Throne </div> | <div align="center"> <img  src="/images/Throne.png"> |
-| <div align="center"> Vengeance </div> | <div align="center"> <img  src="/images/Vengeance.png"> |
-| <div align="center"> Void </div> | <div align="center"> <img  src="/images/Void.png"> |
-| <div align="center"> Wealthy </div> | <div align="center"> <img  src="/images/Wealthy.gif"> |
-| <div align="center"> ? </div> | <div align="center"> <img  src="/images/Xb5pzTW.png"> |
-| <div align="center"> Zeus </div> | <div align="center"> <img  src="/images/Zeus.png"> |
-| <div align="center"> Cosmos I </div> | <div align="center"> <img  src="/images/cosmos.gif"> |
-| <div align="center"> Cosmos II </div> | <div align="center"> <img  src="/images/cosmos-2.gif"> |
-| <div align="center"> Ice </div> | <div align="center"> <img  src="/images/ice.gif"> |
-| <div align="center"> Loner </div> | <div align="center"> <img  src="/images/loner.gif"> |
-| <div align="center"> Luminary </div> | <div align="center"> <img  src="/images/luminary.png"> |
-| <div align="center"> Lunar </div> | <div align="center"> <img  src="/images/lunar.gif"> |
-| <div align="center"> Mafia </div> | <div align="center"> <img  src="/images/mafia.gif"> |
-| <div align="center"> ? </div> | <div align="center"> <img  src="/images/melhuhg.gif"> |
-| <div align="center"> Nightmare </div> | <div align="center"> <img  src="/images/nightmare.gif"> |
-| <div align="center"> Nova </div> | <div align="center"> <img  src="/images/nova.gif"> |
-| <div align="center"> ? </div> | <div align="center"> <img  src="/images/on6DmRZ.gif"> |
-| <div align="center"> Revolution </div> | <div align="center"> <img  src="/images/revolution.png"> |
-| <div align="center"> Ruby </div> | <div align="center"> <img  src="/images/ruby.png"> |
-| <div align="center"> Sacred </div> | <div align="center"> <img  src="/images/sacred.png"> |
-| <div align="center"> Stoners </div> | <div align="center"> <img  src="/images/stoners.gif"> |
-| <div align="center"> Supreme </div> | <div align="center"> <img  src="/images/supreme.gif"> |
-| <div align="center"> Heart </div> | <div align="center"> <img  src="/images/ub-d.gif"> |
-| <div align="center"> Venus </div> | <div align="center"> <img  src="/images/venus.png"> |
-| <div align="center"> V </div> | <div align="center"> <img  src="/images/V.png"> |
-| <div align="center"> ? </div> | <div align="center"> <img  src="/images/yinandyang.png"> |
-| <div align="center"> Selfmade </div> | <div align="center"> <img  src="/images/SELFMADE.png"> |
-| <div align="center"> リラックマ </div> | <div align="center"> <img  src="/images/リラックマ.png"> |
+| <div align="center"> ? </div> | <div align="center"> <img  src="/images/8x2Kw2G.png"> </div> |
+| <div align="center"> 999 </div> | <div align="center"> <img  src="/images/999.png"> </div> |
+| <div align="center"> Agony </div> | <div align="center"> <img  src="/images/Agony.gif"> </div> |
+| <div align="center"> Amoral </div> | <div align="center"> <img  src="/images/amoral.png"> </div> |
+| <div align="center"> Ahegao </div> | <div align="center"> <img  src="/images/Ahegao.png"> </div> |
+| <div align="center"> Apollo </div> | <div align="center"> <img  src="/images/Apollo.png"> </div> |
+| <div align="center"> Freemasons </div> | <div align="center"> <img  src="/images/B5DFsdY.png"> </div> |
+| <div align="center"> ? </div> | <div align="center"> <img  src="/images/Boosters.gif"> </div> |
+| <div align="center"> Crook </div> | <div align="center"> <img  src="/images/CROOK.png"> </div> |
+| <div align="center"> Cloud </div> | <div align="center"> <img  src="/images/Cloud.png"> </div> |
+| <div align="center"> Crybaby </div> | <div align="center"> <img  src="/images/Crybaby.png"> </div> |
+| <div align="center"> Crypto Fan Club </div> | <div align="center"> <img  src="/images/Crypto-Fan-Club.png"> </div> |
+| <div align="center"> Crypto I </div> | <div align="center"> <img  src="/images/Eth.png"> </div> |
+| <div align="center"> Crypto II </div> | <div align="center"> <img  src="/images/Crypto.png"> </div> |
+| <div align="center"> Dynasty </div> | <div align="center"> <img  src="/images/DYNASTY.png"> </div> |
+| <div align="center"> Dawgs </div> | <div align="center"> <img  src="/images/Dawgs.gif"> </div> |
+| <div align="center"> Dawn </div> | <div align="center"> <img  src="/images/Dawn.gif"> </div> |
+| <div align="center"> Death </div> | <div align="center"> <img  src="/images/Death.png"> </div> |
+| <div align="center"> District </div> | <div align="center"> <img  src="/images/District.png"> </div> |
+| <div align="center"> Divine </div> | <div align="center"> <img  src="/images/Divine.png"> </div> |
+| <div align="center"> Dollar Ducks </div> | <div align="center"> <img  src="/images/Dollar-Ducks.gif"> </div> |
+| <div align="center"> Euro </div> | <div align="center"> <img  src="/images/Euro.png"> </div> |
+| <div align="center"> Evolution I </div> | <div align="center"> <img  src="/images/Evolution.png"> </div> |
+| <div align="center"> Evolution II </div> | <div align="center"> <img  src="/images/Evolution-2.png"> </div> |
+| <div align="center"> Fiend </div> | <div align="center"> <img  src="/images/Fiend.png"> </div> |
+| <div align="center"> Final </div> | <div align="center"> <img  src="/images/Final.png"> </div> |
+| <div align="center"> Frosty </div> | <div align="center"> <img  src="/images/Frosty.gif"> </div> |
+| <div align="center"> Gambit </div> | <div align="center"> <img  src="/images/Gambit.png"> </div> |
+| <div align="center"> HOPPEAN </div> | <div align="center"> <img  src="/images/HOPPEAN.gif"> </div> |
+| <div align="center"> Heaven </div> | <div align="center"> <img  src="/images/Heaven.png"> </div> |
+| <div align="center"> Hell </div> | <div align="center"> <img  src="/images/Hell.png"> </div> |
+| <div align="center"> Hour I </div> | <div align="center"> <img  src="/images/DNH0f1I.gif"> </div> |
+| <div align="center"> Hour II </div> | <div align="center"> <img  src="/images/Hour.gif"> </div> |
+| <div align="center"> Icebergs </div> | <div align="center"> <img  src="/images/Icebergs.png"> </div> |
+| <div align="center"> Invoker </div> | <div align="center"> <img  src="/images/Invoker.png"> </div> |
+| <div align="center"> ? </div> | <div align="center"> <img  src="/images/JSPaPI7.png"> </div> |
+| <div align="center"> ? </div> | <div align="center"> <img  src="/images/JWSlawf.png"> </div> |
+| <div align="center"> Kitten </div> | <div align="center"> <img  src="/images/Kitten.png"> </div> |
+| <div align="center"> Mario </div> | <div align="center"> <img  src="/images/Mario.png"> </div> |
+| <div align="center"> Naughty Santa </div> | <div align="center"> <img  src="/images/Naughty-Santa.gif"> </div> |
+| <div align="center"> Player </div> | <div align="center"> <img  src="/images/PLAYER.png"> </div> |
+| <div align="center"> Phantom </div> | <div align="center"> <img  src="/images/Phantom.png"> </div> |
+| <div align="center"> Planet </div> | <div align="center"> <img  src="/images/Planet.png"> </div> |
+| <div align="center"> Prime </div> | <div align="center"> <img  src="/images/Prime.png"> </div> |
+| <div align="center"> Private Party </div> | <div align="center"> <img  src="/images/Private-Party.png"> </div> |
+| <div align="center"> Psychedelic </div> | <div align="center"> <img  src="/images/Psychedelic.gif"> </div> |
+| <div align="center"> RR </div> | <div align="center"> <img  src="/images/RR.gif"> </div> |
+| <div align="center"> Rich </div> | <div align="center"> <img  src="/images/Rich.png"> </div> |
+| <div align="center"> Royal </div> | <div align="center"> <img  src="/images/Royal.png"> </div> |
+| <div align="center"> ? </div> | <div align="center"> <img  src="/images/SDY2f0Q.png"> </div> |
+| <div align="center"> Sakura I </div> | <div align="center"> <img  src="/images/Sakura.png"> </div> |
+| <div align="center"> Sakura II </div> | <div align="center"> <img  src="/images/Sakura-2.png"> </div> |
+| <div align="center"> Solar </div> | <div align="center"> <img  src="/images/Solar.png"> </div> |
+| <div align="center"> Somber </div> | <div align="center"> <img  src="/images/Somber.png"> </div> |
+| <div align="center"> Stoned </div> | <div align="center"> <img  src="/images/Stoned.png"> </div> |
+| <div align="center"> Throne </div> | <div align="center"> <img  src="/images/Throne.png"> </div> |
+| <div align="center"> Vengeance </div> | <div align="center"> <img  src="/images/Vengeance.png"> </div> |
+| <div align="center"> Void </div> | <div align="center"> <img  src="/images/Void.png"> </div> |
+| <div align="center"> Wealthy </div> | <div align="center"> <img  src="/images/Wealthy.gif"> </div> |
+| <div align="center"> ? </div> | <div align="center"> <img  src="/images/Xb5pzTW.png"> </div> |
+| <div align="center"> Zeus </div> | <div align="center"> <img  src="/images/Zeus.png"> </div> |
+| <div align="center"> Cosmos I </div> | <div align="center"> <img  src="/images/cosmos.gif"> </div> |
+| <div align="center"> Cosmos II </div> | <div align="center"> <img  src="/images/cosmos-2.gif"> </div> |
+| <div align="center"> Ice </div> | <div align="center"> <img  src="/images/ice.gif"> </div> |
+| <div align="center"> Loner </div> | <div align="center"> <img  src="/images/loner.gif"> </div> |
+| <div align="center"> Luminary </div> | <div align="center"> <img  src="/images/luminary.png"> </div> |
+| <div align="center"> Lunar </div> | <div align="center"> <img  src="/images/lunar.gif"> </div> |
+| <div align="center"> Mafia </div> | <div align="center"> <img  src="/images/mafia.gif"> </div> |
+| <div align="center"> ? </div> | <div align="center"> <img  src="/images/melhuhg.gif"> </div> |
+| <div align="center"> Nightmare </div> | <div align="center"> <img  src="/images/nightmare.gif"> </div> |
+| <div align="center"> Nova </div> | <div align="center"> <img  src="/images/nova.gif"> </div> |
+| <div align="center"> ? </div> | <div align="center"> <img  src="/images/on6DmRZ.gif"> </div> |
+| <div align="center"> Revolution </div> | <div align="center"> <img  src="/images/revolution.png"> </div> |
+| <div align="center"> Ruby </div> | <div align="center"> <img  src="/images/ruby.png"> </div> |
+| <div align="center"> Sacred </div> | <div align="center"> <img  src="/images/sacred.png"> </div> |
+| <div align="center"> Stoners </div> | <div align="center"> <img  src="/images/stoners.gif"> </div> |
+| <div align="center"> Supreme </div> | <div align="center"> <img  src="/images/supreme.gif"> </div> |
+| <div align="center"> Heart </div> | <div align="center"> <img  src="/images/ub-d.gif"> </div> |
+| <div align="center"> Venus </div> | <div align="center"> <img  src="/images/venus.png"> </div> |
+| <div align="center"> V </div> | <div align="center"> <img  src="/images/V.png"> </div> |
+| <div align="center"> ? </div> | <div align="center"> <img  src="/images/yinandyang.png"> </div> |
+| <div align="center"> Selfmade </div> | <div align="center"> <img  src="/images/SELFMADE.png"> </div> |
+| <div align="center"> リラックマ </div> | <div align="center"> <img  src="/images/リラックマ.png"> </div> |
