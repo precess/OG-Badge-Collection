@@ -6,6 +6,8 @@ I have no clue about some of the badges so i titled them as "?" if you know them
 
 If you know about some other badges which i havent mentioned here please let me know.
 
+---------------------------------------
+
 ||
 | --- |
 Made with ❤ by <a href="https://github.com/precess">precess</a>
