@@ -112,6 +112,7 @@ Zeus | <img  src="/images/Zeus.png">
 Cosmos I | <img  src="/images/cosmos.gif">
 Cosmos II | <img  src="/images/cosmos-2.gif">
 Ice | <img  src="/images/ice.gif">
+Loner | <img  src="/images/loner.gif">
 Luminary | <img  src="/images/luminary.png">
 Lunar | <img  src="/images/lunar.gif">
 Mafia | <img  src="/images/mafia.gif">
