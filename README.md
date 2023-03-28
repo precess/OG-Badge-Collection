@@ -2,10 +2,9 @@
 
 A collection listing of all the badges in OG Websites.
 
-This was made by <a href="https://github.com/precess">precess</a>
 >I have no clue about some badges so if you want you can <a href="https://github.com/precess/OG-Badges-Collection/discussions/1">help me out</a> 
 
-| ㅤㅤㅤㅤㅤTitleㅤㅤㅤㅤㅤ |
+|ㅤ|
 | --- |
 Made with ❤ by <a href="https://github.com/precess">precess</a>
 
