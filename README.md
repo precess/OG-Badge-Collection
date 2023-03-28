@@ -34,7 +34,7 @@ Made with ❤ by <a href="https://github.com/precess">precess</a>
 
 | ㅤㅤㅤㅤㅤTitleㅤㅤㅤㅤㅤ | ㅤㅤㅤㅤㅤBadgeㅤㅤㅤㅤㅤ |
 | --- | --- |
-Admin | <img  src="/images/Staff/admin.png">
+| <div id="header" align="center"> Admin </div> | <div id="header" align="center"> <img  src="/images/Staff/admin.png"> </div> |
 Admin II | <img  src="/images/Staff/admin-2.png">
 Booster | <img  src="/images/Staff/booster.gif">
 Contributor | <img  src="/images/Staff/contributor.png">
