@@ -32,7 +32,7 @@ Made with ❤ by <a href="https://github.com/precess">precess</a>
 
 ## Staff Badges
 
-| ㅤㅤㅤㅤㅤTitleㅤㅤㅤㅤㅤ | ㅤㅤㅤㅤㅤBadgeㅤㅤㅤㅤㅤ |
+| ㅤㅤㅤㅤㅤㅤㅤTitleㅤㅤㅤㅤㅤㅤㅤ | ㅤㅤㅤㅤㅤㅤㅤBadgeㅤㅤㅤㅤㅤㅤㅤ |
 | --- | --- |
 | <div align="center"> Admin </div> | <div align="center"> <img  src="/images/Staff/admin.png"> </div> |
 | <div align="center"> Admin II </div> | <div align="center"> <img  src="/images/Staff/admin-2.png"> </div> |
@@ -61,7 +61,7 @@ Made with ❤ by <a href="https://github.com/precess">precess</a>
 
 ## Group Badges
 
-| ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤTitleㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ | ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤBadgeㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ |
+| ㅤㅤㅤㅤㅤㅤㅤTitleㅤㅤㅤㅤㅤㅤㅤ | ㅤㅤㅤㅤㅤㅤㅤBadgeㅤㅤㅤㅤㅤㅤㅤ |
 | --- | --- |
 | <div align="center"> ? </div> | <div align="center"> <img  src="/images/8x2Kw2G.png"> </div> |
 | <div align="center"> 999 </div> | <div align="center"> <img  src="/images/999.png"> </div> |
