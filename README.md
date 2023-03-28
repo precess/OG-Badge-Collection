@@ -7,7 +7,7 @@ This was made by <a href="https://github.com/precess">precess</a>
 
 <script>
 console.info(
-  'Made with <i class="icon ion-heart" style="color: #e25555;"></i> in Switzerland',
+  Made with <i class="icon ion-heart" style="color: #e25555;"></i> in Switzerland,
   'color: #e25555', 'color: unset'
 );
 </script>
