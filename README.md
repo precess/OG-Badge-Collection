@@ -2,7 +2,7 @@
 
 A collection listing of all the badges in OG Websites.
 
->I have no clue about some badges so if you want you can <a href="https://github.com/precess/OG-Badges-Collection/discussions/1">help me out</a> 
+>I have no clue about some of the badges so i titled them as "?" if you know them please comment <a href="https://github.com/precess/OG-Badges-Collection/discussions/1">here</a> 
 
 ||
 | --- |
