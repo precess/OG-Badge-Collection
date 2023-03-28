@@ -50,6 +50,7 @@ Staff | <img  src="/images/Staff/staff-gg.png">
 999 | <img  src="/images/999.png">
 Agony | <img  src="/images/Agony.gif">
 Amoral | <img  src="/images/amoral.png">
+Ahegao | <img  src="/images/Ahegao.png">
 Apollo | <img  src="/images/Apollo.png">
 Freemasons | <img  src="/images/B5DFsdY.png">
 ? | <img  src="/images/Boosters.gif">
