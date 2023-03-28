@@ -35,28 +35,28 @@ Made with ❤ by <a href="https://github.com/precess">precess</a>
 | ㅤㅤㅤㅤㅤTitleㅤㅤㅤㅤㅤ | ㅤㅤㅤㅤㅤBadgeㅤㅤㅤㅤㅤ |
 | --- | --- |
 | <div id="header" align="center"> Admin </div> | <div id="header" align="center"> <img  src="/images/Staff/admin.png"> </div> |
-| Admin II | <img  src="/images/Staff/admin-2.png"> |
-| Booster | <img  src="/images/Staff/booster.gif"> |
-| Contributor | <img  src="/images/Staff/contributor.png"> |
-| Exclusive | <img  src="/images/Staff/exclusive.png"> |
-| Management | <img  src="/images/Staff/management.png"> |
-| Member | <img  src="/images/Staff/member.png"> |
-| Mentor | <img  src="/images/Staff/mentor.png"> |
-| Moderator I | <img  src="/images/Staff/moderator-1.png"> |
-| Moderator II | <img  src="/images/Staff/Moderator-3.png"> |
-| Premium | <img  src="/images/Staff/premium.png"> |
-| Registered | <img  src="/images/Staff/registered.png"> |
-| Staff Blue | <img  src="/images/Staff/staff-blue.png"> |
-| Staff Red | <img  src="/images/Staff/staff-red.png"> |
-| Staff | <img  src="/images/Staff/staff.png"> |
-| Trusted | <img  src="/images/Staff/trusted.png"> |
-| Verified I | <img  src="/images/Staff/verified.png"> |
-| Verified II | <img  src="/images/Staff/verified-2.png"> |
-| Verified III | <img  src="/images/Staff/verified-gg.png"> |
-| Limunary | <img  src="/images/Staff/limunary-gg.png"> |
-| Mentor | <img  src="/images/Staff/mentor-gg.png"> |
-| Revolution | <img  src="/images/Staff/revolution-gg.png"> |
-| Staff | <img  src="/images/Staff/staff-gg.png"> |
+| <div id="header" align="center"> Admin II </div> | <img  src="/images/Staff/admin-2.png"> |
+| <div id="header" align="center"> Booster </div> | <img  src="/images/Staff/booster.gif"> |
+| <div id="header" align="center"> Contributor </div> | <img  src="/images/Staff/contributor.png"> |
+| <div id="header" align="center"> Exclusive </div> | <img  src="/images/Staff/exclusive.png"> |
+| <div id="header" align="center"> Management </div> | <img  src="/images/Staff/management.png"> |
+| <div id="header" align="center"> Member </div> | <img  src="/images/Staff/member.png"> |
+| <div id="header" align="center"> Mentor </div> | <img  src="/images/Staff/mentor.png"> |
+| <div id="header" align="center"> Moderator I </div> | <img  src="/images/Staff/moderator-1.png"> |
+| <div id="header" align="center"> Moderator II </div> | <img  src="/images/Staff/Moderator-3.png"> |
+| <div id="header" align="center"> Premium </div> | <img  src="/images/Staff/premium.png"> |
+| <div id="header" align="center"> Registered </div> | <img  src="/images/Staff/registered.png"> |
+| <div id="header" align="center"> Staff Blue </div> | <img  src="/images/Staff/staff-blue.png"> |
+| <div id="header" align="center"> Staff Red </div> | <img  src="/images/Staff/staff-red.png"> |
+| <div id="header" align="center"> Staff </div> | <img  src="/images/Staff/staff.png"> |
+| <div id="header" align="center"> Trusted </div> | <img  src="/images/Staff/trusted.png"> |
+| <div id="header" align="center"> Verified I </div> | <img  src="/images/Staff/verified.png"> |
+| <div id="header" align="center"> Verified II </div> | <img  src="/images/Staff/verified-2.png"> |
+| <div id="header" align="center"> Verified III </div> | <img  src="/images/Staff/verified-gg.png"> |
+| <div id="header" align="center"> Limunary </div> | <img  src="/images/Staff/limunary-gg.png"> |
+| <div id="header" align="center"> Mentor </div> | <img  src="/images/Staff/mentor-gg.png"> |
+| <div id="header" align="center"> Revolution </div> | <img  src="/images/Staff/revolution-gg.png"> |
+| <div id="header" align="center"> Staff </div> | <img  src="/images/Staff/staff-gg.png"> |
 
 
 ## Group Badges
