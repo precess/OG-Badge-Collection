@@ -1,4 +1,4 @@
-# OG Website Badges
+# OG Badges Collection
 
 A collection listing of all the badges in OG Websites.
 
