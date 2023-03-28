@@ -142,7 +142,7 @@ Made with ❤ by <a href="https://github.com/precess">precess</a>
 | <div align="center"> Supreme </div> | <div align="center"> <img  src="/images/supreme.gif"> </div> |
 | <div align="center"> Heart </div> | <div align="center"> <img  src="/images/ub-d.gif"> </div> |
 | <div align="center"> Venus </div> | <div align="center"> <img  src="/images/venus.png"> </div> |
-| V | <img  src="/images/V.png"> |
+| <div align="center"> V </div> | <div align="center"> <img  src="/images/V.png"> </div> |
 | <div align="center"> ? </div> | <div align="center"> <img  src="/images/yinandyang.png"> </div> |
 | <div align="center"> Selfmade </div> | <div align="center"> <img  src="/images/SELFMADE.png"> </div> |
 | <div align="center"> リラックマ </div> | <div align="center"> <img  src="/images/リラックマ.png"> </div> |
