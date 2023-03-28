@@ -1,3 +1,10 @@
+/*
+Credits:
+    - Lummit - https://volted.cc | https://github.com/precess/ | Discord: OG#2624
+    
+    - GitHub: https://github.com/precess/OG-Badge-Collection
+*/
+
 # OG Badge Collection
 
 ### A collection listing of all the badges in OG Websites.
