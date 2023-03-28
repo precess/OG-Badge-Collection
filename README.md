@@ -37,45 +37,45 @@ Staff | <img  src="/images/Staff/staff-gg.png">
 
 | ㅤㅤㅤㅤㅤTitleㅤㅤㅤㅤㅤ | ㅤㅤㅤㅤㅤBadgeㅤㅤㅤㅤㅤ |
 | --- | --- |
-? | <img  src="/images/8x2Kw2G.png" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
-999 | <img  src="/images/999.png" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
-Agony | <img  src="/images/Agony.gif" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
-Amoral | <img  src="/images/amoral.png" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
-Apollo | <img  src="/images/Apollo.png" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
-? | <img  src="/images/B5DFsdY.png" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
-? | <img  src="/images/Boosters.gif" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
-Crook | <img  src="/images/CROOK.png" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
-Cloud | <img  src="/images/Cloud.png" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
-Crybaby | <img  src="/images/Crybaby.png" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
-Crypto Fan Club | <img  src="/images/Crypto-Fan-Club.png" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
-Crypto I | <img  src="/images/Eth.png" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
-Crypto II | <img  src="/images/Crypto.png" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
-Dynasty | <img  src="/images/DYNASTY.png" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
-Dawgs | <img  src="/images/Dawgs.gif" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
-Dawn | <img  src="/images/Dawn.gif" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
-Death | <img  src="/images/Death.png" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
-District | <img  src="/images/District.png" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
-Divine | <img  src="/images/Divine.png" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
-Dollar Ducks | <img  src="/images/Dollar-Ducks.gif" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
-Euro | <img  src="/images/Euro.png" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
-Evolution I | <img  src="/images/Evolution.png" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
-Evolution II | <img  src="/images/Evolution-2.png" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
-Fiend | <img  src="/images/Fiend.png" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
-Final | <img  src="/images/Final.png" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
-Frosty | <img  src="/images/Frosty.gif" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
-Gambit | <img  src="/images/Gambit.png" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
-HOPPEAN | <img  src="/images/HOPPEAN.gif" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
-Heaven | <img  src="/images/Heaven.png" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
-Hell | <img  src="/images/Hell.png" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
-Hour I | <img  src="/images/DNH0f1I.gif" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
-Hour II | <img  src="/images/Hour.gif" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
-Icebergs | <img  src="/images/Icebergs.png" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
-Invoker | <img  src="/images/Invoker.png" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
-? | <img  src="/images/JSPaPI7.png" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
-? | <img  src="/images/JWSlawf.png" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
-Kitten | <img  src="/images/Kitten.png" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
-Mario | <img  src="/images/Mario.png" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
-Naughty Santa | <img  src="/images/Naughty-Santa.gif" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
+? | <img  src="/images/8x2Kw2G.png">
+999 | <img  src="/images/999.png">
+Agony | <img  src="/images/Agony.gif">
+Amoral | <img  src="/images/amoral.png">
+Apollo | <img  src="/images/Apollo.png">
+? | <img  src="/images/B5DFsdY.png">
+? | <img  src="/images/Boosters.gif">
+Crook | <img  src="/images/CROOK.png">
+Cloud | <img  src="/images/Cloud.png">
+Crybaby | <img  src="/images/Crybaby.png">
+Crypto Fan Club | <img  src="/images/Crypto-Fan-Club.png">
+Crypto I | <img  src="/images/Eth.png">
+Crypto II | <img  src="/images/Crypto.png">
+Dynasty | <img  src="/images/DYNASTY.png">
+Dawgs | <img  src="/images/Dawgs.gif">
+Dawn | <img  src="/images/Dawn.gif">
+Death | <img  src="/images/Death.png">
+District | <img  src="/images/District.png">
+Divine | <img  src="/images/Divine.png">
+Dollar Ducks | <img  src="/images/Dollar-Ducks.gif">
+Euro | <img  src="/images/Euro.png">
+Evolution I | <img  src="/images/Evolution.png">
+Evolution II | <img  src="/images/Evolution-2.png">
+Fiend | <img  src="/images/Fiend.png">
+Final | <img  src="/images/Final.png">
+Frosty | <img  src="/images/Frosty.gif">
+Gambit | <img  src="/images/Gambit.png">
+HOPPEAN | <img  src="/images/HOPPEAN.gif">
+Heaven | <img  src="/images/Heaven.png">
+Hell | <img  src="/images/Hell.png">
+Hour I | <img  src="/images/DNH0f1I.gif">
+Hour II | <img  src="/images/Hour.gif">
+Icebergs | <img  src="/images/Icebergs.png">
+Invoker | <img  src="/images/Invoker.png">
+? | <img  src="/images/JSPaPI7.png">
+? | <img  src="/images/JWSlawf.png">
+Kitten | <img  src="/images/Kitten.png">
+Mario | <img  src="/images/Mario.png">
+Naughty Santa | <img  src="/images/Naughty-Santa.gif">
 Player | <img  src="/images/PLAYER.png" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
 Phantom | <img  src="/images/Phantom.png" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
 Planet | <img  src="/images/Planet.png" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
