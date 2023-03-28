@@ -76,45 +76,45 @@ Invoker | <img  src="/images/Invoker.png">
 Kitten | <img  src="/images/Kitten.png">
 Mario | <img  src="/images/Mario.png">
 Naughty Santa | <img  src="/images/Naughty-Santa.gif">
-Player | <img  src="/images/PLAYER.png" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
-Phantom | <img  src="/images/Phantom.png" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
-Planet | <img  src="/images/Planet.png" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
-Prime | <img  src="/images/Prime.png" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
-Private Party | <img  src="/images/Private-Party.png" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
-Psychedelic | <img  src="/images/Psychedelic.gif" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
-RR | <img  src="/images/RR.gif" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
-Rich | <img  src="/images/Rich.png" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
-Royal | <img  src="/images/Royal.png" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
-? | <img  src="/images/SDY2f0Q.png" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
-Sakura I | <img  src="/images/Sakura.png" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
-Sakura II | <img  src="/images/Sakura-2.png" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
-Solar | <img  src="/images/Solar.png" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
-Somber | <img  src="/images/Somber.png" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
-Stoned | <img  src="/images/Stoned.png" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
-Throne | <img  src="/images/Throne.png" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
-Vengeance | <img  src="/images/Vengeance.png" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
-Void | <img  src="/images/Void.png" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
-Wealthy | <img  src="/images/Wealthy.gif" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
-? | <img  src="/images/Xb5pzTW.png" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
-Zeus | <img  src="/images/Zeus.png" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
-Cosmos I | <img  src="/images/cosmos.gif" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
-Cosmos II | <img  src="/images/cosmos-2.gif" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
-Ice | <img  src="/images/ice.gif" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
-Luminary | <img  src="/images/luminary.png" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
-Lunar | <img  src="/images/lunar.gif" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
-Mafia | <img  src="/images/mafia.gif" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
-? | <img  src="/images/melhuhg.gif" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
-Nightmare | <img  src="/images/nightmare.gif" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
-Nova | <img  src="/images/nova.gif" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
-? | <img  src="/images/on6DmRZ.gif" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
-Revolution | <img  src="/images/revolution.png" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
-Ruby | <img  src="/images/ruby.png" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
-Sacred | <img  src="/images/sacred.png" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
-Stoners | <img  src="/images/stoners.gif" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
-Supreme | <img  src="/images/supreme.gif" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
-Heart | <img  src="/images/ub-d.gif" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
-Venus.png | <img  src="/images/venus.png" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
-V | <img  src="/images/V.png" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
-? | <img  src="/images/yinandyang.png" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
-Selfmade | <img  src="/images/SELFMADE.png" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
-リラックマ | <img  src="/images/リラックマ.png" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
+Player | <img  src="/images/PLAYER.png">
+Phantom | <img  src="/images/Phantom.png">
+Planet | <img  src="/images/Planet.png">
+Prime | <img  src="/images/Prime.png">
+Private Party | <img  src="/images/Private-Party.png">
+Psychedelic | <img  src="/images/Psychedelic.gif">
+RR | <img  src="/images/RR.gif">
+Rich | <img  src="/images/Rich.png">
+Royal | <img  src="/images/Royal.png">
+? | <img  src="/images/SDY2f0Q.png">
+Sakura I | <img  src="/images/Sakura.png">
+Sakura II | <img  src="/images/Sakura-2.png">
+Solar | <img  src="/images/Solar.png">
+Somber | <img  src="/images/Somber.png">
+Stoned | <img  src="/images/Stoned.png">
+Throne | <img  src="/images/Throne.png">
+Vengeance | <img  src="/images/Vengeance.png">
+Void | <img  src="/images/Void.png">
+Wealthy | <img  src="/images/Wealthy.gif">
+? | <img  src="/images/Xb5pzTW.png">
+Zeus | <img  src="/images/Zeus.png">
+Cosmos I | <img  src="/images/cosmos.gif">
+Cosmos II | <img  src="/images/cosmos-2.gif">
+Ice | <img  src="/images/ice.gif">
+Luminary | <img  src="/images/luminary.png">
+Lunar | <img  src="/images/lunar.gif">
+Mafia | <img  src="/images/mafia.gif">
+? | <img  src="/images/melhuhg.gif">
+Nightmare | <img  src="/images/nightmare.gif">
+Nova | <img  src="/images/nova.gif">
+? | <img  src="/images/on6DmRZ.gif">
+Revolution | <img  src="/images/revolution.png">
+Ruby | <img  src="/images/ruby.png">
+Sacred | <img  src="/images/sacred.png">
+Stoners | <img  src="/images/stoners.gif">
+Supreme | <img  src="/images/supreme.gif">
+Heart | <img  src="/images/ub-d.gif">
+Venus.png | <img  src="/images/venus.png">
+V | <img  src="/images/V.png">
+? | <img  src="/images/yinandyang.png">
+Selfmade | <img  src="/images/SELFMADE.png">
+リラックマ | <img  src="/images/リラックマ.png">
