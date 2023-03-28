@@ -13,9 +13,9 @@ Credits:
 
 ### A collection listing of all the badges in OG Websites.
 
-### * <a href="https://github.com/precess/OG-Badge-Collection/blob/main/README.md#staff-badges">Staff Badges</a>
+### - <a href="https://github.com/precess/OG-Badge-Collection/blob/main/README.md#staff-badges">Staff Badges</a>
 
-### * <a href="https://github.com/precess/OG-Badge-Collection/blob/main/README.md#group-badges">Group Badges</a>
+### - <a href="https://github.com/precess/OG-Badge-Collection/blob/main/README.md#group-badges">Group Badges</a>
 
 I have no clue about some of the badges so i titled them as "?" if you know them please comment <a href="https://github.com/precess/OG-Badges-Collection/discussions/1">here.</a> 
 
