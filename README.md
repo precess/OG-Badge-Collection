@@ -118,3 +118,7 @@ V | <img  src="/images/V.png" href="https://discord.com/assets/f599063762165e0d2
 ? | <img  src="/images/yinandyang.png" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
 Selfmade | <img  src="/images/SELFMADE.png" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
 リラックマ | <img  src="/images/リラックマ.png" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" >
+
+| ㅤㅤㅤㅤㅤTitleㅤㅤㅤㅤㅤ | ㅤㅤㅤㅤㅤBadgeㅤㅤㅤㅤㅤ |
+| --- | --- |
+? | <img  src="/images/8x2Kw2G.png">
