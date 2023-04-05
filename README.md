@@ -53,7 +53,7 @@ Made with ❤ by <a href="https://github.com/precess">precess</a>
 | <div align="center"> Verified I </div> | <div align="center"> <img  src="/images/Staff/verified.png"> </div> |
 | <div align="center"> Verified II </div> | <div align="center"> <img  src="/images/Staff/verified-2.png"> </div> |
 | <div align="center"> Verified III </div> | <div align="center"> <img  src="/images/Staff/verified-gg.png"> </div> |
-| <div align="center"> Limunary </div> | <div align="center"> <img  src="/images/Staff/limunary-gg.png"> </div> |
+| <div align="center"> Luminary </div> | <div align="center"> <img  src="/images/Staff/limunary-gg.png"> </div> |
 | <div align="center"> Mentor </div> | <div align="center"> <img  src="/images/Staff/mentor-gg.png"> </div> |
 | <div align="center"> Revolution </div> | <div align="center"> <img  src="/images/Staff/revolution-gg.png"> </div> |
 | <div align="center"> Staff </div> | <div align="center"> <img  src="/images/Staff/staff-gg.png"> </div> |
